@@ -1,0 +1,5 @@
+Admin login (or Receptionist) Username : aqeel@gmail.com Password : admin
+
+Doctor login (or Receptionist) Username : hegde@gmail.com Password : hegde123
+
+Patient login Username : kimminji@gmail.com Password : 12345
